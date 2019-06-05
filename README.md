@@ -1,1 +1,1 @@
-mobirise のBootstrapテンプレート
+# Mobirise Bootstrap Builder
